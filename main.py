@@ -3,7 +3,7 @@ import os
 import subprocess
 import requests
 
-TOKEN = '6125908788:AAEOFZhKdmzTYLV1lxToxAOfJM7A4Ru8_y4'
+TOKEN = 'Insert Your Shit Token Here'
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
